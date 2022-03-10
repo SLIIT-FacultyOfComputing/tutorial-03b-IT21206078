@@ -8,5 +8,6 @@ int main() {
      cout <<  r+1 
           <<  names[r]
           << marks[r] << endl;
+   
  }
 }
